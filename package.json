@@ -1,0 +1,27 @@
+{
+  "name": "deteccao-encontros",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "compare": "node dist/compare.js"
+  },
+ 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jo-osant/Monitoramento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jo-osant/Monitoramento/issues"
+  },
+  "homepage": "https://github.com/jo-osant/Monitoramento#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
