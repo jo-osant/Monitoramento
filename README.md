@@ -95,4 +95,4 @@ Se isso fosse para um sistema de verdade, eu usaria uma estrutura de busca por p
 
 ## Como usei IA
 
-Utilizei o Claude como auxili, ele me ajudou a analisar o enunciado e os gabaritos, comparar melhores lógicas a serem utilizadas, me deu explicações das partes que não entendi e a analisar as respostar gerada pelo sistema com os arquivos dos datasets, para validar se as respostas estavam corretas.
+Utilizei o Claude como auxílio, ele me ajudou a analisar o enunciado e os gabaritos, comparar melhores lógicas a serem utilizadas, me deu explicações das partes que não entendi e a analisar as respostas gerada pelo sistema com os arquivos dos datasets, para validar se as respostas estavam corretas.
