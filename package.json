@@ -7,7 +7,6 @@
     "start": "node dist/main.js",
     "compare": "node dist/compare.js"
   },
- 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jo-osant/Monitoramento.git"
@@ -19,9 +18,11 @@
     "url": "https://github.com/jo-osant/Monitoramento/issues"
   },
   "homepage": "https://github.com/jo-osant/Monitoramento#readme",
-  "description": "",
+  "description": "Projeto para monitoramento de segurança",
   "devDependencies": {
     "@types/node": "^26.6.6",
     "typescript": "^7.0.2"
-  }
+  },
+  "main": "index.js",
+  "type": "commonjs"
 }

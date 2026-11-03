@@ -1,0 +1,14 @@
+node_modules/
+dist/
+input/
+output_example/
+
+# Logs e arquivos do sistema
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Configurações do editor
+.vscode/
+.idea/

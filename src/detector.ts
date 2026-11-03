@@ -2,7 +2,7 @@ import { LIMITE_GRAUS_LAT, limite, haversine } from './geo';
 import { Encontro, Posicionamento, TipoEncontro } from './types';
 
 // vítima não é genérico.
-export const generico_vitima = false;
+export const generico_vitima =  false;
 
 // É protetiva se um é vítima, o outro é agressor, e o agressor está na lista dela.
 function protetiva(a: Posicionamento, b: Posicionamento): boolean {
